@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Djaston13
-- 👀 I’m interested in data science .
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me ...
+# 👋 Hi there, I'm Nodjirambaye Penset Eric
+I'm a **data scientist** passionate about solving real-world problems using data. With a strong academic foundation in economics and statistics, I'm building a portfolio that combines programming, analytics, and research to drive insight and impact.
 
-<!---
-Djaston13/Djaston13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---## 📊 Projects  
+- **Data Analysis**: [Nigeria Inflation Dataset](https://github.com/Djaston13/Nigeria_Inflation_Analysis)  
+- **Python Games**: [Guessing Game](https://github.com/Djaston13/Guessing-Game) and [Calculator Project](https://github.com/Djaston13/Calculator-Project)  
+- More data science and economics projects coming soon!
+
+---
+
+## 🎓 Background  
+- **MS in Econometrics and Quantitative Economics (Incoming)** – Northeastern University  
+- **Associate Degree in Computer Science (Ongoing)** – University of the People  
+- Certificates in Python, Data Science, SQL, Machine Learning, and AI.
+
+---
+
+## 🔬 Research Interests  
+- AI & Youth Employment  
+- Urban–Rural Fintech Disparities  
+- Data Science for Development  
+- Computational Social Science
+
+---
+
+## 📫 Let’s Connect  
+- 📧 Email: penseteric@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/nodjirambaye-penset-eric-6a1a591ab](https://linkedin.com/in/nodjirambaye-penset-eric-6a1a591ab)  
+- 🧠 GitHub: [github.com/Djaston13](https://github.com/Djaston13)
