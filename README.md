@@ -9,7 +9,8 @@ I'm a **data scientist** passionate about solving real-world problems using data
 ---
 
 ## 🎓 Background  
-- **MS in Econometrics and Quantitative Economics (Incoming)** – Northeastern University  
+- **MS in Econometrics and Quantitative Economics (Incoming)** – Northeastern University
+- Bsc (edu) Economics - Nasarawa State University, Keffi Nigeria 
 - **Associate Degree in Computer Science (Ongoing)** – University of the People  
 - Certificates in Python, Data Science, SQL, Machine Learning, and AI.
 
